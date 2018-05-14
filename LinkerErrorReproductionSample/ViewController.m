@@ -8,6 +8,9 @@
 
 #import "ViewController.h"
 
+NSString * const kWidthHeaderKey = @"WidthHeaderKey";
+NSString * const kHeightHeaderKey = @"HeightHeaderKey";
+
 @interface ViewController ()
 
 @end

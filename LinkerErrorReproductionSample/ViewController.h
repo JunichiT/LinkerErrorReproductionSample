@@ -8,8 +8,10 @@
 
 #import <UIKit/UIKit.h>
 
+extern NSString * const kWidthHeaderKey;
+extern NSString * const kHeightHeaderKey;
+
 @interface ViewController : UIViewController
 
 
 @end
-
